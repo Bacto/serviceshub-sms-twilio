@@ -25,6 +25,6 @@ curl -i -X POST \
 
 Notes:
 
-- numbers "from" and "to" are international numbers format, ie. +33xxxxxxxxx for a french number.
+- Numbers "from" and "to" are international numbers format, ie. +33xxxxxxxxx for a french number.
 
 - If you set async to true, the micro service will not wait for SMS to be sent. It's fast but you will not notice if there is an error.
