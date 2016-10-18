@@ -23,6 +23,7 @@ curl -i -X POST \
   "http://serviceshub1.bacto.net:9093/send"
 ```
 
+
 Notes:
 
 - Numbers "from" and "to" are international numbers format, ie. +33xxxxxxxxx for a french number.
